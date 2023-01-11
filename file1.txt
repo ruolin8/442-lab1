@@ -1,5 +1,5 @@
 Welcome to INFO 442 Week 2.
-Change line 2.
+Merge conflicts are annoying...
 Hopefully rebasing can help in collaboration!
 Line 4
 Line 4
